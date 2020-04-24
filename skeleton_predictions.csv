@@ -1,4 +1,4 @@
-skeleton_id predicted_nt hemilineage_id
+skeleton_id,predicted_nt,hemilineage_id
 430,5,2
 12578,1,4
 23005,1,6
