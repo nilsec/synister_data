@@ -20,6 +20,9 @@
     4:   octopamine, 
     5:   serotonin 
 
+5. A csv file of predicted neurotransmitters per skeleton id (CATMAID skid) after majority vote over its synapses ```skeleton_predictions.csv```
+    columns: skeleton_id, predicted_nt, hemilineage_id
+
 Read files via:
 ```python
 ìmport json
